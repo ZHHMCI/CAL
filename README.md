@@ -10,6 +10,9 @@ Experiments with both linear and ensemble models demonstrate that CAL achieves s
 performance across all datasets and is competitive with existing methods. The results show that CAL
 provides an effective and efficient framework for protein flexibility prediction.
 
+<p align="center">
+  <img src="figures/concept.png" width="600">
+</p>
 
 
 ## CAL Feature Generation and Model Training

@@ -11,7 +11,7 @@ performance across all datasets and is competitive with existing methods. The re
 provides an effective and efficient framework for protein flexibility prediction.
 
 <p align="center">
-  <img src="concept.png" width="800">
+  <img src="concept.png" width="1000">
 </p>
 
 

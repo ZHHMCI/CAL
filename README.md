@@ -10,6 +10,9 @@ Experiments with both linear and ensemble models demonstrate that CAL achieves s
 performance across all datasets and is competitive with existing methods. The results show that CAL
 provides an effective and efficient framework for protein flexibility prediction.
 
+<p align="center">
+  <img src="concept.png" width="1000">
+</p>
 
 
 ## CAL Feature Generation and Model Training
@@ -73,5 +76,4 @@ python codes/train_rf_gbdt_lopo_blind.py
 - python 3.10.12  
 - biopython 1.75  
 - pandas 1.4.1  
-- gudhi 3.5.0  
 - gudhi 3.5.0  
